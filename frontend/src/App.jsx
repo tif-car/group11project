@@ -16,12 +16,12 @@ export default function App() {
   return (
     <div>
       <NavBar />
-       {/* <Calendar /> *} 
+       {/*<Calendar /> */} 
       {/*<Notifications />*/}  
      {/* < Registration /> */} 
-     {/*<MatchMaking /> */}
-      {/*<Login />  */}
-      <UserProfiles />
+     <MatchMaking /> 
+      {/* <Login /> */}  
+      {/* <UserProfiles /> */} 
       </div>
   );
 }

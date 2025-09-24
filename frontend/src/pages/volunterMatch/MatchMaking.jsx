@@ -143,7 +143,7 @@ const recentActivities = [
 
 const skills = ["Customer Service", "Organization", "Bilingual (Spanish)", "Leadership"];
 
-function  Navbar() {
+function Navbar() {
   return (
     <header className="sticky top-0 z-40 border-b border-slate-200 bg-white/90 backdrop-blur">
       <div className="mx-auto flex h-14 max-w-6xl items-center justify-between px-4">
